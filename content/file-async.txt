@@ -1,0 +1,1 @@
+Here is the result: Hi, I'm first txt file, Hi, I'm second txt fileHere is the result: Hi, I'm first txt file, Hi, I'm second txt file
